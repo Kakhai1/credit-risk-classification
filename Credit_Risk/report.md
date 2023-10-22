@@ -8,6 +8,8 @@ The dataset provided information about various features, including borrower char
 
 ## Results
 
+![ClassificationReport](Resources/ClassificationReport.png)
+
 Accuracy: 99%
 
 * Class 0:
